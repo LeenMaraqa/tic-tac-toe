@@ -9,6 +9,7 @@ The game can be restarted after a win or draw.
 Interactive console interface with a clean, responsive design.
 
 Running the Game:
+
 Install Dart SDK (if you don’t have it yet).
 Create a Dart file (e.g., main.dart) and paste the code in above file.
 Run the game using the following command:
